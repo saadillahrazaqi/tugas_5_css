@@ -1,0 +1,31 @@
+body {
+  color: white;
+}
+
+header {
+  background-color: black;
+  margin-bottom: 0.5rem;
+}
+
+.slider-div {
+  text-align: center;
+}
+
+.slider {
+  width: 45%;
+}
+
+.menu {
+  color: white;
+  text-transform: uppercase;
+}
+
+main {
+  color: black;
+  text-align: justify;
+}
+
+footer {
+  background-color: black;
+  text-align: center;
+}
